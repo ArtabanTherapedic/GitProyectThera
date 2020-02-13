@@ -1,0 +1,682 @@
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.pdb
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.xml
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.FrmMain.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Resources.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.vbproj.GenerateResource.Cache
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe.licenses
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.xml
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.pdb
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.EtiquetasCalForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe.config
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Visor.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepCompras01.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.DatosDBForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.LoginForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe.manifest
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.application
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe.manifest
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.application
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.BonusSkins.v14.1.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Images.v14.1.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Utils.v14.1.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.TrustInfo.xml
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.vbprojResolveAssemblyReference.cache
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.SplashScreen.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatComposiciones.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMaestro.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatTiposForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMarcasForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatModelosForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatCategoriasForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatLineasForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatConstruccionesForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatConfortForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMedidasForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatProcesosForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProRutaProceso.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.EtiquetasMPSForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProReciboEmpFormf.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProEmbarquesFrm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ReportView.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepExistenciasForm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CapturaInv.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatArticulos.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.TransferFrm.resources
+C:\Users\SISTEMAS\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.BuscaItemFrm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe.config
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe.manifest
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.application
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.pdb
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.xml
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.BonusSkins.v14.1.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Images.v14.1.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Utils.v14.1.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.BuscaItemFrm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CapturaInv.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.GenEtiquetaInv.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.TransferFrm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatSalas.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.MPSFabrikForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ReportView.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ReportesForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.TestFormvb.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepEmbarquesForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreProdFrm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProRecDestajoFormf.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepDestajosForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProEmbarquesFrm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.EtiquetasMPSForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatArticulos.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatTiposForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatComposiciones.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMarcasForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatModelosForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatCategoriasForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatLineasForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatConstruccionesForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatConfortForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMedidasForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatProcesosForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProRutaProceso.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMaestro.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProReciboEmpFormf.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepExistenciasForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatEmpleados.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.SplashScreen.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepCompras01.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.DatosDBForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.EtiquetasCalForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.LoginForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.FrmMain.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Resources.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Visor.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.vbproj.GenerateResource.Cache
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe.licenses
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.TrustInfo.xml
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe.manifest
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.application
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.xml
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.pdb
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProdProcesoFrm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ReImpETEpicor.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.GenEtiquetaEpicor.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PlanEmbarque.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatAreasForm.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Metricos01.resources
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.vbprojResolveAssemblyReference.cache
+C:\Users\alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Accesos.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe.config
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe.manifest
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.application
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.pdb
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.xml
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.BonusSkins.v14.1.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Images.v14.1.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Utils.v14.1.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.BuscaItemFrm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CapturaInv.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProcesaInv.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.GenEtiquetaEpicor.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.GenEtiquetaInv.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.TransferFrm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Accesos.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatAreasForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatSalas.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProImpEtForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.MPSFabrikForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ReportView.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ReportesForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.TestFormvb.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.WebForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.MetricosTH01.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Metricos01.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PlanEmbarque.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ReImpETEpicor.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProdProcesoFrm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepEmbarquesForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreProdFrm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProRecDestajoFormf.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepDestajosForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProEmbarquesFrm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.EtiquetasMPSForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatArticulos.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatTiposForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatComposiciones.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMarcasForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatModelosForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatCategoriasForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatLineasForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatConstruccionesForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatConfortForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMedidasForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatProcesosForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProRutaProceso.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMaestro.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProReciboEmpFormf.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepExistenciasForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatEmpleados.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.SplashScreen.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepCompras01.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.DatosDBForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.EtiquetasCalForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.LoginForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.FrmMain.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Resources.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Visor.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.vbproj.GenerateResource.Cache
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe.licenses
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.TrustInfo.xml
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe.manifest
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.application
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.xml
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.pdb
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.vbprojResolveAssemblyReference.cache
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomina.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomAyuGral01.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomPegado01.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomArm01.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomLDoss01.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomCostura01.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomAlm01.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomBasGral01.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomBas01.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.AvisosCxPForm.resources
+C:\Users\JORGEB\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.BKpPreNomArm01.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProcesaInv.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.AvisosCxPForm.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProImpEtForm.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.WebForm.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.MetricosTH01.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.BKpPreNomArm01.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomBas01.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomAlm01.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomBasGral01.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomCostura01.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomLDoss01.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomArm01.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomPegado01.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomAyuGral01.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomina.resources
+C:\Users\Alvirde\Documents\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.EtiquetasAlm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.BuscaItemFrm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CapturaInv.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.EtiquetasAlm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProcesaInv.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.GenEtiquetaEpicor.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.GenEtiquetaInv.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.TransferFrm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.AvisosCxPForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Accesos.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatAreasForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatSalas.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProImpEtForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.MPSFabrikForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ReportView.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ReportesForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.TestFormvb.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.WebForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.MetricosTH01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Metricos01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PlanEmbarque.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ReImpETEpicor.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProdProcesoFrm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepEmbarquesForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreProdFrm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProRecDestajoFormf.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepDestajosForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProEmbarquesFrm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.EtiquetasMPSForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatArticulos.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatTiposForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatComposiciones.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMarcasForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatModelosForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatCategoriasForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatLineasForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatConstruccionesForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatConfortForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMedidasForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatProcesosForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProRutaProceso.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatMaestro.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepExistenciasForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.BKpPreNomArm01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatEmpleados.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomBas01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomAlm01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomBasGral01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomCostura01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomLDoss01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomArm01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomPegado01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomAyuGral01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNominaElbeck.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PreNomina.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.PrenomProm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.SplashScreen.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.RepCompras01.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.DatosDBForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.EtiquetasCalForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.LoginForm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.FrmMain.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Resources.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.Visor.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.vbproj.GenerateResource.Cache
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe.licenses
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe.config
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe.manifest
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.application
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.exe
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.pdb
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\Artaban.xml
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.BonusSkins.v14.1.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Data.v14.1.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Images.v14.1.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Utils.v14.1.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Data.v14.1.xml
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.Utils.v14.1.xml
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.xml
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.vbprojResolveAssemblyReference.cache
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.TrustInfo.xml
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe.manifest
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.application
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.exe
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.xml
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.pdb
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatSupyProm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProCargaFundasFrm1.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProCargaFundasFrm.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.CatPreregPromo.resources
+D:\Datos\Documentos\Visual Studio 2010\Projects\Artaban\Artaban\obj\Debug\Artaban.ProFiniquitos.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\Artaban.exe.config
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.exe
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.xml
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.pdb
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\Artaban.exe.manifest
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\Artaban.application
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\Artaban.exe
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\Artaban.pdb
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\Artaban.xml
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.BonusSkins.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.Images.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.Utils.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.vbprojResolveAssemblyReference.cache
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.BuscaItemFrm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CapturaInv.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.EtiquetasAlm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ProcesaInv.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.GenEtiquetaEpicor.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.GenEtiquetaInv.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.TransferFrm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.AvisosCxPForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.Accesos.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatAreasForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatSalas.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ProImpEtForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.MPSFabrikForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ReportView.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ReportesForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.TestFormvb.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.WebForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ProCargaFundasFrm1.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.MetricosTH01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.Metricos01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PlanEmbarque.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ReImpETEpicor.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ProdProcesoFrm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.RepEmbarquesForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PreProdFrm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ProRecDestajoFormf.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.RepDestajosForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ProEmbarquesFrm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.EtiquetasMPSForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatArticulos.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatTiposForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatComposiciones.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatMarcasForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatModelosForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatCategoriasForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatLineasForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatConstruccionesForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatConfortForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatMedidasForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatProcesosForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ProRutaProceso.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.catMaestro.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ProCargaFundasFrm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.RepExistenciasForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.BKpPreNomArm01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatEmpleados.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatPreregPromo.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.CatSupyProm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PreNomBas01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PreNomAlm01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PreNomBasGral01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PreNomCostura01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PreNomLDoss01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PreNomArm01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PreNomPegado01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PreNomAyuGral01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.ProFiniquitos.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PreNominaElbeck.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PreNomina.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.PrenomProm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.SplashScreen.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.RepCompras01.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.DatosDBForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.EtiquetasCalForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.LoginForm.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.FrmMain.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.Resources.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.Visor.resources
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.vbproj.GenerateResource.Cache
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.exe.licenses
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.TrustInfo.xml
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.exe.manifest
+C:\Users\IvanD\Desktop\Artaban\Artaban\obj\Debug\Artaban.application
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\Artaban.exe.config
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.xml
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.pdb
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\Artaban.exe.manifest
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\Artaban.application
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\Artaban.exe
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\Artaban.pdb
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\Artaban.xml
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.BonusSkins.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.Data.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.Images.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.Utils.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.Data.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.Utils.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.XtraBars.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.XtraEditors.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.XtraGrid.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\DevExpress.XtraNavBar.v14.1.xml
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\de\DevExpress.Data.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\es\DevExpress.Data.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ja\DevExpress.Data.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ru\DevExpress.Data.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\de\DevExpress.Utils.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\es\DevExpress.Utils.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ja\DevExpress.Utils.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ru\DevExpress.Utils.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\de\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\es\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ja\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ru\DevExpress.XtraBars.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\de\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\es\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ja\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ru\DevExpress.XtraGrid.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\de\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\es\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ja\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\bin\Debug\ru\DevExpress.XtraNavBar.v14.1.resources.dll
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.vbprojResolveAssemblyReference.cache
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.BuscaItemFrm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CapturaInv.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.EtiquetasAlm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ProcesaInv.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.GenEtiquetaEpicor.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.GenEtiquetaInv.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.TransferFrm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.AvisosCxPForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.Accesos.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatAreasForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatSalas.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ProImpEtForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.MPSFabrikForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ReportView.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ReportesForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.TestFormvb.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.WebForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ProCargaFundasFrm1.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.MetricosTH01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.Metricos01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PlanEmbarque.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ReImpETEpicor.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ProdProcesoFrm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.RepEmbarquesForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PreProdFrm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ProRecDestajoFormf.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.RepDestajosForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ProEmbarquesFrm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.EtiquetasMPSForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatArticulos.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatTiposForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatComposiciones.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatMarcasForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatModelosForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatCategoriasForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatLineasForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatConstruccionesForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatConfortForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatMedidasForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatProcesosForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ProRutaProceso.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.catMaestro.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ProCargaFundasFrm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.RepExistenciasForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.BKpPreNomArm01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatEmpleados.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatPreregPromo.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.CatSupyProm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PreNomBas01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PreNomAlm01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PreNomBasGral01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PreNomCostura01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PreNomLDoss01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PreNomArm01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PreNomPegado01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PreNomAyuGral01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.ProFiniquitos.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PreNominaElbeck.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PreNomina.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.PrenomProm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.SplashScreen.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.RepCompras01.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.DatosDBForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.EtiquetasCalForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.LoginForm.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.FrmMain.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.Resources.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.Visor.resources
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.vbproj.GenerateResource.Cache
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.exe.licenses
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.TrustInfo.xml
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.exe.manifest
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.application
+C:\Users\IvanD\Desktop\Artaban\etiquetas benja\Artaban\obj\Debug\Artaban.exe
